@@ -8,7 +8,7 @@ Programa simples elaborado no curso de Ciência da Computação na UNINTER, que 
 ## Programa
   - O programa em si primeiro verifica se existem números repetidos no mesmo jogo, o que inviabilizaria a cartela.
   - Também existe a verificação das cartelas para que não existam cartelas iguais.
-    -- Caso existam jogos iguais a última cartela é regerada.
+  - Caso existam jogos iguais a última cartela é regerada.
 
 ## Saída
   - A saída do programa são o número do jogos pedidos pelo usuário. 
